@@ -1,0 +1,8 @@
+{
+  "appId": "com.babylon.aivideo",
+  "appName": "بابلون AI Video",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
